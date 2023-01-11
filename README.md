@@ -38,6 +38,6 @@ New single tube version in development and testing. The main goal is to make the
 The difference between the second version and the first is a slight reduction in bass and an improvement in mids and highs - closer, bigger and brighter.
 
 
-<h1 align="center">Initial version <a href="https://github.com/RomanLikhachev/RIOBuds/blob/main/Source/RIOBUDS%20_v1.stl" target="_blank">.STL</a> 
+<h1 align="center">Download a Initial version <a href="https://github.com/RomanLikhachev/RIOBuds/blob/main/Source/RIOBUDS%20_v1.stl" target="_blank">.STL</a> 
 
 Version V2, MMCX, X will be soon
