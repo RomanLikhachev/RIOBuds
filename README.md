@@ -32,6 +32,8 @@ As for MMCX, a case is also being developed for it and will be released later.
 <h1>Version X - three in one</h1>
 
 ![alt text](https://github.com/RomanLikhachev/RIOBuds/blob/main/Source/v2.png?raw=true)
+  
+  ![alt text](https://github.com/RomanLikhachev/RIOBuds/blob/main/Source/x_vers.png?raw=true)
 
 I connected all three tubes into one, getting a rather long channel, similar to a snail in acoustic speakers.
 New single tube version in development and testing. The main goal is to make the presentation smooth, but at the same time to make the bass deeper and more noticeable.
