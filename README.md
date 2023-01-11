@@ -2,6 +2,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">The main developer and creator of RIOBuds: new generation of sound in earbuds!</h3>
 
+<h1 align="center"><a href="https://t.me/riobuds" target="_blank">Telegram channel</a> 
+
 <h1>Version One</h1>
 
 ![alt text](https://github.com/RomanLikhachev/RIOBuds/blob/main/Source/main_m.jpg?raw=true)
@@ -35,4 +37,5 @@ I connected all three tubes into one, getting a rather long channel, similar to 
 New single tube version in development and testing. The main goal is to make the presentation smooth, but at the same time to make the bass deeper and more noticeable.
 The difference between the second version and the first is a slight reduction in bass and an improvement in mids and highs - closer, bigger and brighter.
 
-<h1 align="center"><a href="https://t.me/riobuds" target="_blank">Telegram channel</a> 
+
+<h1 align="center"><a href="https://github.com/RomanLikhachev/RIOBuds/blob/main/Source/RIOBUDS%20_v1.stl" target="_blank">.STL V1</a> 
