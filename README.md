@@ -39,3 +39,5 @@ The difference between the second version and the first is a slight reduction in
 
 
 <h1 align="center"><a href="https://github.com/RomanLikhachev/RIOBuds/blob/main/Source/RIOBUDS%20_v1.stl" target="_blank">.STL V1</a> 
+
+Version V2, MMCX, X will be soon
