@@ -42,7 +42,7 @@ The difference between the second version and the first is a slight reduction in
 
 <h1 align="center">Download a Initial version <a href="https://github.com/RomanLikhachev/RIOBuds/blob/main/Source/v1/RIOBUDS%20_v1.stl" target="_blank">.STL</a> 
 
-<h1 align="center">Download a version v2 with mmcx <a href="https://github.com/RomanLikhachev/RIOBuds/blob/main/Source/v2/RIOBUDS%20_v1.stl" target="_blank">.STL</a> 
+<h1 align="center">Download a version v2 with mmcx <a href="https://github.com/RomanLikhachev/RIOBuds/blob/main/Source/v2/RIOBUDS_Classic_mmcx.stl" target="_blank">.STL</a> 
   
 <h1>DDriver type</h1>
 
