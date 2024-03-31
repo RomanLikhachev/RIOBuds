@@ -4,6 +4,8 @@
 
 <h1 align="center"><a href="https://t.me/riobuds" target="_blank">Telegram channel</a> 
 
+<h3 align="center"><a href="[https://t.me/riobuds](https://telegra.ph/RIOBuds-osnovnye-modeli-03-20)" target="_blank">History and models</a> 
+
 <h1>Version One</h1>
 
 ![alt text](https://github.com/RomanLikhachev/RIOBuds/blob/main/Source/main_m.jpg?raw=true)
