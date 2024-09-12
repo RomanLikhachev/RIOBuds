@@ -29,8 +29,6 @@ The development and testing of this case was carried out for about one year, and
 The development of the connector fixing also took a lot of time and all for the experience and convenience of the audiophile: one connector - plenty of choice. The reliability of 2pin is undeniable, and the choice of cables on the market is huge, which served to use it in my project.
 As for MMCX, a case is also being developed for it and will be released later.
 
-![alt text](https://github.com/RomanLikhachev/RIOBuds/blob/main/Source/mmcx_v.png?raw=true)
-
 <h1>Version X - three in one</h1>
 
 ![alt text](https://github.com/RomanLikhachev/RIOBuds/blob/main/Source/v2.png?raw=true)
@@ -42,12 +40,10 @@ New single tube version in development and testing. The main goal is to make the
 The difference between the second version and the first is a slight reduction in bass and an improvement in mids and highs - closer, bigger and brighter.
 
 
-<h1 align="center">Download a Initial version <a href="https://github.com/RomanLikhachev/RIOBuds/blob/main/Source/v1/RIOBUDS%20_v1.stl" target="_blank">.STL</a> 
+<h1 align="center">[0LD]Download a Initial version <a href="https://github.com/RomanLikhachev/RIOBuds/blob/main/Source/v1/RIOBUDS%20_v1.stl" target="_blank">.STL</a> 
 
-<h1 align="center">Download a version v2 with mmcx <a href="https://github.com/RomanLikhachev/RIOBuds/blob/main/Source/v2/RIOBUDS_Classic_mmcx.stl" target="_blank">.STL</a> 
+<h1 align="center">[0LD]Download a version v2 with mmcx <a href="https://github.com/RomanLikhachev/RIOBuds/blob/main/Source/v2/RIOBUDS_Classic_mmcx.stl" target="_blank">.STL</a> 
+
+<h1 align="center">Download a version X with mmcx <a href="https://github.com/RomanLikhachev/RIOBuds/blob/main/Source/X/RIOBUDS_X_Upd.stl" target="_blank">.STL</a> 
   
-<h1>DDriver type</h1>
-
-  Good: berillium, composite, graphene, etc.
-  BAD: LCP
 
